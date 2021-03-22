@@ -1,0 +1,26 @@
+{
+  "title": {
+    "CN": "lulu按钮",
+    "JP": "るる音声ボタン",
+    "US": "lulu voices button"
+  },
+  "links": [
+    {
+      "title": "狼按钮",
+      "url": "ht,tps: //,ookamimio.org/"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "Willem",
+        "url": "https://sizuku.top"
+      }
+    ],
+    "info": [
+      ""
+    ],
+    "github": "https://github.com/kiritosan"
+  },
+  "CDN": ""
+}
