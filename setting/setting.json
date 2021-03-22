@@ -1,26 +1,52 @@
 {
-  "title": {
-    "CN": "lulu按钮",
-    "JP": "るる音声ボタン",
-    "US": "lulu voices button"
+  "name": {
+    "CN": {
+      "title": "语音按钮",
+      "fullName": ""
+    },
+    "EN": {
+      "title": "Voives Button",
+      "fullName": ""
+    }
   },
-  "links": [
+  "header": {
+    "icon": "🍣",
+    "youtube": "",
+    "twitter": "",
+    "bilibili": ""
+  },
+  "link": [
     {
-      "title": "狼按钮",
-      "url": "ht,tps: //,ookamimio.org/"
+      "name": "Hiiro按钮",
+      "url": "https: //hiiro.club/",
+      "background": "#F5C1BB"
+    },
+    {
+      "name": "七奈按钮",
+      "url": "https: //kaguranana.moe/",
+      "background": "#c4afd0"
     }
   ],
   "footer": {
     "author": [
       {
-        "name": "Willem",
-        "url": "https://sizuku.top"
+        "name": "",
+        "url": ""
       }
     ],
     "info": [
       ""
     ],
-    "github": "https://github.com/kiritosan"
+    "githubUrl": ""
   },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
   "CDN": ""
 }
