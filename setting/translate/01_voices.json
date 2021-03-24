@@ -1,21 +1,140 @@
 [
+  
   {
-    "name": "好耶",
-    "path": "好耶.mp3",
-    "date": "2020-11-25",
+    "name": "derrrrrrrrrrrr",
+    "path": "derrrrrrrrrrrr.mp3",
+    "date": "2021-03-24",
     "translate": {
-      "zh-CN": "好耶",
-      "en-US": "Haoye"
-    },
-    "usePicture": {
-      "zh-CN": "好耶.jpg",
-      "en-US": "好耶.jpg"
+      "zh-CN": "derrrrrrrrrrrr",
+      "en-US": ""
     },
     "category": "名言",
     "mark": {
-      "title": "【Hiiro Record】11.24 Tue.读棉花糖",
-      "time": "59:33~59:34",
-      "url": "https://www.bilibili.com/video/BV1gy4y1q7cC"
+      "title": "【熟肉切片】跟着lulu学废了弹舌",
+      "time": "50-56",
+      "url": "https://www.bilibili.com/video/BV1hX4y137jq"
     }
-  }
+  },
+  {
+    "name": " 这家伙说把所有的V都取关了 lulu去检查一下 我记住你的名字了 现在就去检查",
+    "path": " 这家伙说把所有的V都取关了 lulu去检查一下 我记住你的名字了 现在就去检查.mp3",
+    "date": "2021-03-24",
+    "translate": {
+      "zh-CN": "这家伙说把所有的V都取关了 lulu去检查一下 我记住你的名字了 现在就去检查",
+      "en-US": ""
+    },
+    "category": "名言",
+    "mark": {
+      "title": " ",
+      "time": " - ",
+      "url": "https://www.bilibili.com/video/"
+    }
+  },
+  {
+    "name": "大骗子",
+    "path": "大骗子.mp3",
+    "date": "2021-03-24",
+    "translate": {
+      "zh-CN": "大骗子",
+      "en-US": ""
+    },
+    "category": "名言",
+    "mark": {
+      "title": " ",
+      "time": " - ",
+      "url": "https://www.bilibili.com/video/"
+    }
+  },
+  {
+    "name": "片哥 好久不见了 我有点想你了",
+    "path": "片哥 好久不见了 我有点想你了.mp3",
+    "date": "2021-03-24",
+    "translate": {
+      "zh-CN": "片哥 好久不见了 我有点想你了",
+      "en-US": ""
+    },
+    "category": "名言",
+    "mark": {
+      "title": " ",
+      "time": " - ",
+      "url": "https://www.bilibili.com/video/"
+    }
+  },
+  {
+    "name": "啊啊~牛逼",
+    "path": "啊啊~牛逼.mp3",
+    "date": "2021-03-24",
+    "translate": {
+      "zh-CN": "啊啊~牛逼",
+      "en-US": ""
+    },
+    "category": "名言",
+    "mark": {
+      "title": " ",
+      "time": " - ",
+      "url": "https://www.bilibili.com/video/"
+    }
+  },
+  {
+    "name": "lulu咆哮",
+    "path": "lulu咆哮.mp3",
+    "date": "2021-03-24",
+    "translate": {
+      "zh-CN": "lulu咆哮",
+      "en-US": ""
+    },
+    "category": "名言",
+    "mark": {
+      "title": " ",
+      "time": " - ",
+      "url": "https://www.bilibili.com/video/"
+    }
+  },
+  {
+    "name": "嗯 我在想你",
+    "path": "嗯 我在想你.mp3",
+    "date": "2021-03-24",
+    "translate": {
+      "zh-CN": "嗯 我在想你",
+      "en-US": ""
+    },
+    "category": "名言",
+    "mark": {
+      "title": " ",
+      "time": " - ",
+      "url": "https://www.bilibili.com/video/"
+    }
+  },
+  {
+    "name": "我对女人没兴趣",
+    "path": "我对女人没兴趣.mp3",
+    "date": "2021-03-24",
+    "translate": {
+      "zh-CN": "我对女人没兴趣",
+      "en-US": ""
+    },
+    "category": "名言",
+    "mark": {
+      "title": " ",
+      "time": " - ",
+      "url": "https://www.bilibili.com/video/"
+    }
+  },
+  {
+    "name": "lulu懒狗",
+    "path": "lulu懒狗.mp3",
+    "date": "2021-03-24",
+    "translate": {
+      "zh-CN": "lulu懒狗",
+      "en-US": ""
+    },
+    "category": "名言",
+    "mark": {
+      "title": " ",
+      "time": " - ",
+      "url": "https://www.bilibili.com/video/"
+    }
+  },
+
+
 ]
