@@ -30,14 +30,14 @@
   "footer": {
     "author": [
       {
-        "name": "",
-        "url": ""
+        "name": "Willem",
+        "url": "https://ataraxia.top"
       }
     ],
     "info": [
-      ""
+      "<img style=\"margin: 5px 5px 0 -2px\" alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/kiritosan/lulu?style=social\"><img style=\"margin: 5px 5px 0 -2px\" alt=\"GitHub Repo forks\" src=\"https://img.shields.io/github/forks/kiritosan/lulu?style=social\">"
     ],
-    "githubUrl": ""
+    "githubUrl": "https://github.com/kiritosan/lulu"
   },
   "console": {
     "text": "",
@@ -47,6 +47,7 @@
     "imgWidth": "",
     "imgHeight": ""
   },
+  "GA_ID": "G-D0GKGJPWM3",
   "mediaSession": "",
   "CDN": ""
 }
