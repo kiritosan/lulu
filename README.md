@@ -60,7 +60,7 @@
 ```
 添加`usePicture`字段可以添加鼠标悬浮时显示的图片(请放到`public/voices/img`目录)
 
-还可以通过填写[https://www.notion.so/sizuku/e738d441aba04b2e9073b5add93d6c67?v=fe976c61b06d44db8f0d32b41aec94c2](Notion)表单来丰富语音内容。
+还可以通过填写[Notion](https://www.notion.so/sizuku/e738d441aba04b2e9073b5add93d6c67?v=fe976c61b06d44db8f0d32b41aec94c2)表单来丰富语音内容。
 
 ### LICENSE
 - 使用[voices-button-cli](https://github.com/blacktunes/voices-button-cli)创建的语音按钮
