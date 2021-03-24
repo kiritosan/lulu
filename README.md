@@ -7,7 +7,7 @@
 
 ### 添加或修改音频/完善翻译
 
-即使不懂具体操作也可以通过填写[Notion](https://www.notion.so/sizuku/e738d441aba04b2e9073b5add93d6c67?v=fe976c61b06d44db8f0d32b41aec94c2)表单来帮助丰富lulu按钮语音内容。
+即使不懂具体操作也可以通过填写[Notion表单](https://www.notion.so/sizuku/e738d441aba04b2e9073b5add93d6c67?v=fe976c61b06d44db8f0d32b41aec94c2)来帮助丰富lulu按钮语音内容。
 
 音频文件推荐使用**mp3**格式，请先音量标准化，然后放入`public/voices/`目录
 
