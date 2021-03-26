@@ -48,5 +48,5 @@
     "imgHeight": ""
   },
   "mediaSession": "",
-  "CDN": ""
+  "CDN": "https://cdn.jsdelivr.net/gh/kiritosan/lulu@main/public/voices/"
 }
